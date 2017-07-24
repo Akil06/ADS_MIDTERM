@@ -1,4 +1,4 @@
-
+﻿
 **# ADS MIDTERM ASSIGNMENT**
 Under the guidance of Prof. SriKanth Krishnamurthy and Pranjal Jain.
 
@@ -20,25 +20,12 @@ WORKFLOW:
 
 STEPS TO RUN DOCKER IMAGE
 
-•	Docker pull akil06/midterm:image1
+•	Docker pull akil06/midterm:1
 
 •	sudo docker run -ti -p 8888:8888 image id /bin/bash
 
 
 •	jupyter notebook --ip 0.0.0.0 --no-browser --allow-root
 
-•	Docker pull akil06/midterm:image2
-
-•	sudo docker run -ti -p 8888:8888 image id /bin/bash
-
-
-•	jupyter notebook --ip 0.0.0.0 --no-browser --allow-root
-
-•	Docker pull akil06/midterm:image3
-
-•	sudo docker run -ti -p 8888:8888 image id /bin/bash
-
-
-•	jupyter notebook --ip 0.0.0.0 --no-browser --allow-root
 
 
