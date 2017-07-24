@@ -1,3 +1,4 @@
+
 ﻿
 **# ADS MIDTERM ASSIGNMENT**
 Under the guidance of Prof. SriKanth Krishnamurthy and Pranjal Jain.
@@ -26,6 +27,3 @@ STEPS TO RUN DOCKER IMAGE
 
 
 •	jupyter notebook --ip 0.0.0.0 --no-browser --allow-root
-
-
-
